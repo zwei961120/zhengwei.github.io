@@ -1,0 +1,17 @@
+title: Zheng Wei
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/zwei961120"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Contact"
+   link: "contact"
